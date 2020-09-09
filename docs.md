@@ -1,4 +1,4 @@
-This is the mind reading helmet. It allows you to hear the thoughts of the people around you.
+This is the new, improved mind-reading helmet. It allows you to hear the thoughts of the people around you.
 
 Thoughts will be transmitted in your ear as sounds.
 

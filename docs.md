@@ -2,7 +2,6 @@ This is the new, improved mind-reading helmet. It allows you to hear the thought
 
 Look at one person. Their thoughts will be transmitted in your ear as sounds. The languages used are Spanish, English, and French.
 
+Mind reading helmets are not legal in all areas. They are legal in the USA but not in Canada. Some people have privacy concerns about the mind reading helmet.
 
-Mind reading helmets are not legal in all areas. They are legal in the USA but not in Canada. Canadians are more concerned with privacy than Americans are.
-
-These changes are in the master branch.
+These changes have been merged.
